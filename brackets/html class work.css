@@ -10,6 +10,18 @@ body1 {
     font-size:15
 }
 
-body 2 {
-    font-size:7.5
+body2 {
+    font-size:13
 }
+
+.navigation {
+    overflow: hidden;
+    background-color: #888;
+    position: fixed;
+    
+    top: 0;
+    width: 100%;
+    text-decoration: none;
+    height: 5%;
+}
+
