@@ -29,3 +29,14 @@
 .navigation .header {
     background-color: #1A4486;
 }
+
+.cbhs_banner {
+    position: fixed;
+	top: 50px;
+	right: 0;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+    
