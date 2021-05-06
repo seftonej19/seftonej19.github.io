@@ -1,42 +1,10 @@
 
-.navigation ul {
-    list-style-type: none;
-    margin: -8;
-    padding: 0;
-    overflow: hidden;
-    background-color: #505050;
-    width: 100%;
-    position: fixed;
+.Title {
+    font-size: 30;
+    margin-left: 4%;
+    text-decoration: bold;
 }
 
-.navigation li {
-    float: left;
-    display: flex;
-    border-right: 2px solid black;
-}
 
-.navigation li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 99px;
-    text-decoration: none;
-}
-
-.navigation li a:hover {
-    background-color: #111;
-}
-.navigation .header {
-    background-color: #1A4486;
-}
-
-.cbhs_banner {
-    position: fixed;
-	top: 50px;
-	right: 0;
-	height: 100%;
-	margin: 0;
-	padding: 0;
-}
 
     
